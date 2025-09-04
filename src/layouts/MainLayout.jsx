@@ -9,7 +9,6 @@ const DashboardLayout = () => {
 
 	// Navigation links config
 	const navLinks = [
-		{ to: '/', label: 'Overview', icon: '📊' },
 		{ to: '/products', label: 'Products', icon: '🏥' },
 		{ to: '/news', label: 'News', icon: '📰' },
 	];
