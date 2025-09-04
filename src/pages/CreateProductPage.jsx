@@ -8,7 +8,7 @@ import FormTextarea from '../components/common/FormTextarea';
 
 const categories = [
 	'CSSD',
-	'Radiology',
+	'Hospital Design',
 	'Plastic Surgery',
 	'Neurosurgery',
 	'Theatre',
